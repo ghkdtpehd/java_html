@@ -5,3 +5,6 @@
 2021-06-28 10:03:25,639 [main] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
 2021-06-28 10:03:25,641 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
 2021-06-28 10:03:25,665 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@700f6efc{/wse,null,AVAILABLE}
+2021-06-28 10:03:25,681 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@76cfe7e5{HTTP/1.1, (http/1.1)}{0.0.0.0:61745}
+2021-06-28 10:03:25,681 [main] INFO  org.eclipse.jetty.server.Server - Started @3470889ms
+2021-06-28 10:03:25,681 [main] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
