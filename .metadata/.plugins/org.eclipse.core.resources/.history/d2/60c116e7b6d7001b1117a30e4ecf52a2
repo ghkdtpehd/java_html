@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>audio 요소 삽입</h1>
+	<audio controls="controls" autoplay="autoplay">
+		<source src="media/music.mp3">
+	</audio>
+	<hr>
+	
+	<h1>video 요소 삽입</h1>
+	<video width="350" height="250" controls autoplay="autoplay">
+		<source src="media/mymovie2.mp4">
+	</video>
+	
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Ex03</title>
+</head>
+<body>
+	<h1>img 요소 삽입</h1>
+	<hr>
+	
+	<div>
+		<img src="images/car/car2.jpg">
+	</div>
+</body>
+</html>

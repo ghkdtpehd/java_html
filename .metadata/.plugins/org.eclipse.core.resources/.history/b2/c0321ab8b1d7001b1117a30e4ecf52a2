@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Ex03</title>
+</head>
+<body>
+	<h1>img 요소 삽입</h1>
+	<hr>
+	
+	<div>
+		<figure>
+			<figcaption>민트색 자동차</figcaption>
+			<img src="images/car/car2.jpg" alt="민트차" width="500" height="300" title="박람회에 출품된 차">
+		</figure>
+		<img alt="" src="images/book.jpg">
+	</div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<ul>
+		<li>toy1</li>
+		<li>toy2</li>
+		<li><a href="toy3">toy3</a></li>
+	</ul>
+	
+	<h2>toy1</h2>
+	<img src="images/toy1.jpg">
+	<hr>
+	<h2>toy2</h2>
+	<img src="images/toy2.jpg">
+	<hr>
+	<h2 id ="toy3">toy3</h2>
+	<img src="images/toy3.jpg">
+	<hr>
+	<a href="#">맨위로</a>
+</body>
+</html>

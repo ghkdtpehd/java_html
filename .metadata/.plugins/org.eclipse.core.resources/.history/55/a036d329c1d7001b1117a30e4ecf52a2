@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<ul>
+		<li>home</li>
+		<li>교보문고</li>
+		<li>다음</li>
+	</ul>
+</body>
+</html>
