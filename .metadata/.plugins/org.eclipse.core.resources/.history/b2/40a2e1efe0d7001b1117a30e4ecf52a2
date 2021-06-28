@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>예약 문의</h1>
+	<from>
+		<p>
+			<label for="userName">작성자</label>
+			<input type="text" id="userName" name="userName"></input>
+		</p>
+		<p>
+			<label>비밀번호</label>
+			<input type="password" name="userPw"></input>
+		</p>
+		<p>
+			<label>이메일</label>
+			<input type="email" name="userEmail"></input>
+		</p>
+		<p>
+			<label>투숙 날짜</label>
+			<input type="date" name="userDate"></input>
+		</p>
+		<p>
+			<label>투숙 인원</label>
+			<input type="number" name="userNumber"></input>
+		</p>
+		<p>
+			 예약하실 객실을 선택하세요</br>
+			 <fieldset style="width:30%;">
+			 	<legend>객실 선택</legend>
+				 <input type="radio" name="userRoom" value="single" checked="checked">single</input>
+				 <input type="radio" name="userRoom" value="double">double</input>
+				 <input type="radio" name="userRoom" value="twin">twin</input>
+			 </fieldset>
+		</p>
+		<p>
+			 예약자 선별을 선택하세요</br>
+			 <fieldset style="width:30%;">
+			 	<legend>성별선택</legend>
+				 <input type="radio" name="userGender" value="남자" checked="checked">남자</input>
+				 <input type="radio" name="userGender" value="여자">여자</input>
+			 </fieldset>
+		</p>
+		<p>
+			<label>이메일2</label>
+			<input type="text" name="userEmail2"/>@
+			<select name="userEmail3">
+				<option>선택</option>
+				<option value="naver.com">naver.com</option>
+				<option value="daum.net">daum.net</option>
+				<option value="gamil.com">gmail.com</option>
+			</select>
+		</p>
+		<p>
+			옵션을 선택하세요</br>
+			 <fieldset style="width:30%;">
+			 	<legend>옵션 선택</legend>
+				 <input type="checkbox" name="userOption" value="조식">조식</input>
+				 <input type="checkbox" name="userOption" value="바베큐">바베큐</input>
+				 <input type="checkbox" name="userOption" value="픽업 서비스">픽업 서비스</input>
+			 </fieldset>
+		</p>
+		<p>
+			신원 확인용 사진 등록
+			<input type="file" name="userFile"/>
+		</p>
+		<p>
+			<label>글내용</label>
+			<textarea rows="5" cols="30">문의 사항을 입려하세요</textarea>
+		</p>
+		<p>
+			<input type="submit" value="전송">
+			<input type="reset" value="취소">
+			<input type="button" value="">
+		</p>
+	</from>
+</body>
+</html>

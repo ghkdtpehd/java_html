@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table border="1" cellspasing="1" width="400" height="300" bordercolor="red" bgColor="green">
+		<tr bgcolor="#4948FF">
+			<td bgcolor="cyan">가</td>
+			<td>나</td>
+		</tr>
+		<tr>
+			<td>다</td>
+			<td>라</td>
+		</tr>
+		<tr>
+			<td>마</td>
+			<td>바</td>
+		</tr>
+	</table>
+</body>
+</html>
